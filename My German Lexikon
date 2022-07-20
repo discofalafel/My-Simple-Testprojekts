@@ -1,4 +1,15 @@
 
+class App
+{
+
+
+
+
+    static void Main(string[] args)
+    {
+
+        Console.WriteLine("Bitte geben sie ihren Namen ein");
+
         string name = Console.ReadLine();
 
 
